@@ -1,0 +1,12 @@
+wevtutil cl Analytic
+wevtutil cl EndpointMapper
+wevtutil cl ForwardedEvents
+wevtutil cl AirSpaceChannel
+wevtutil cl MediaFoundationContentProtection
+wevtutil cl MediaFoundationAsyncWrapper
+wevtutil cl MedaFoundationVideoProcD3D
+wevtutil cl MedaFoundationVideoProc
+wevtutil cl Navigator
+wevtutil cl OfficeChannel
+
+exit
